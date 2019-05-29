@@ -1,3 +1,3 @@
 # docker-services
 
-docker services for test usage
+multiple docker services for development usage
